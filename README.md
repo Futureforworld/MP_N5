@@ -1,5 +1,5 @@
 # MP_N5
-Software security
+Software Security
 
 Este projeto foi desenvolvido como uma resposta prática a uma situação realista de falha de segurança em uma aplicação legada. A aplicação, estruturada em frontend e backend (API REST), apresentava uma vulnerabilidade crítica no controle de sessão, permitindo o acesso indevido a recursos sensíveis por meio da manipulação do parâmetro session-id.
 
